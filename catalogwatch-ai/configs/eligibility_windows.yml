@@ -1,0 +1,16 @@
+windows:
+  - name: Not Eligible
+    min_years: -999
+    max_years: 24
+  - name: Early Watch
+    min_years: 25
+    max_years: 30
+  - name: Mid Window
+    min_years: 31
+    max_years: 35
+  - name: Imminent
+    min_years: 36
+    max_years: 38
+  - name: Post Eligibility
+    min_years: 39
+    max_years: 999

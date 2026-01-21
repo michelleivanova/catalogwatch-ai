@@ -1,0 +1,10 @@
+ingest:
+  sample_path: data/samples/sample_catalogs.csv
+  required_columns:
+    - catalog_id
+    - artist_name
+    - track_title
+    - release_year
+    - rights_holder
+    - territory
+    - ownership_notes

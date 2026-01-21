@@ -1,0 +1,6 @@
+catalog_id,artist_name,track_title,release_year,rights_holder,territory,ownership_notes
+CAT-001,Example Artist,Song A,1990,BigLabel US,US,"Reverted to artist in 2018; exclusive license to BigLabel until 2025"
+CAT-002,Another Artist,Song B,2000,SmallLabel,US,"Artist-owned masters; self-released on indie label"
+CAT-003,Third Artist,Song C,1985,LegacyRecords,US,"Legacy contract; ambiguous language about reversion; disputed ownership"
+CAT-004,Modern Artist,Song D,2010,NewLabel,US,"Exclusive license for 10 years starting 2010"
+CAT-005,Recent Artist,Song E,2005,Self,US,"Self-released; artist-owned"
